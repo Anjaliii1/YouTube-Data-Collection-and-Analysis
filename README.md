@@ -12,10 +12,9 @@ This project focuses on collecting and analyzing trending YouTube videos using t
 ### Technologies Used
 
  1. Programming Language: Python
- 2. Libraries:
-     pandas: Data manipulation and analysis.
-     matplotlib & seaborn: Visualization.
-     googleapiclient: Interact with YouTube Data API.
+ 2. Libraries: - Pandas: Data manipulation and analysis.
+               - matplotlib & seaborn: Visualization.
+               - googleapiclient: Interact with YouTube Data API.
  3. API: YouTube Data API v3
 
 #### Steps:
